@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ConfidenceIntervals</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_interval">Додати інтервал</string>
+    <string name="add_operation">Додати операцію</string>
+    <string name="add_number">Додати число</string>
+    <string name="result">Результати</string>
+    <string name="reflection">Додати відображення</string>
+    <string name="inversion">Додати інверсію</string>
+    <string name="graphic">Графічне представлення</string>
+    <string name="cancel">Відмінити</string>
+    <string name="ok">Додати</string>
+    <string name="close">Закрити графік</string>
+    <string name="input_interval">Введіть інтервал</string>
+    <string name="input_operation">Виберіть операцію</string>
+    <string name="input_number">Введіть число</string>
+    <string name="input_expr">Додайте інтервал або число</string>
+
+    <string name="sum">Сума</string>
+    <string name="sub">Віднімання</string>
+    <string name="div">Ділення</string>
+    <string name="div_hip">Ділення (гіпотеза)</string>
+    <string name="mult">Множення</string>
+    <string name="min">Мінімум</string>
+    <string name="max">Максимум</string>
+</resources>
